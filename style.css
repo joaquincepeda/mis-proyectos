@@ -1,4 +1,28 @@
 body{
     text-align: center;
-    background-color: green;
+    background-color: #31D492;
 }
+img {
+	max-width: 50%;
+	width: 560px;
+}
+.texto-grande {
+	font-size:50px;
+}
+.pequeño {
+	font-size:25px;
+}
+#texto-color {
+	color: #C71D36;
+}
+#texto-titulo {
+	color: #E1712B;
+}
+.bloque{
+	border: 5px solid blue;
+	max-width:800px;
+	margin:auto;
+	background-color:#D6D3D1;
+}
+.separar-link {
+	padding-top: 14px;
